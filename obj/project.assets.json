@@ -13118,29 +13118,29 @@
     ]
   },
   "packageFolders": {
-    "/home/luiarhs/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\admincda\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luiarhs/Works/ASP.NETCore/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "c:\\Users\\admincda\\Works\\aspcore\\aspnetcoremvc\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/home/luiarhs/Works/ASP.NETCore/MvcMovie/MvcMovie.csproj",
-      "packagesPath": "/home/luiarhs/.nuget/packages/",
-      "outputPath": "/home/luiarhs/Works/ASP.NETCore/MvcMovie/obj/",
+      "projectPath": "c:\\Users\\admincda\\Works\\aspcore\\aspnetcoremvc\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\admincda\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\admincda\\Works\\aspcore\\aspnetcoremvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/luiarhs/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\admincda\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "/home/luiarhs/.dotnet/NuGetFallbackFolder": {},
+        "C:\\Users\\admincda\\.dotnet\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
