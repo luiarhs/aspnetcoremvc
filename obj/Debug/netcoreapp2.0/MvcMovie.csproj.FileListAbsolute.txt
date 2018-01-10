@@ -8,3 +8,13 @@
 /home/luiarhs/Works/ASP.NETCore/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
 /home/luiarhs/Works/ASP.NETCore/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
 /home/luiarhs/Works/ASP.NETCore/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\bin\Debug\netcoreapp2.0\MvcMovie.dll
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\obj\Debug\netcoreapp2.0\MvcMovie.dll
+c:\Users\admincda\Works\aspcore\aspnetcoremvc\obj\Debug\netcoreapp2.0\MvcMovie.pdb
